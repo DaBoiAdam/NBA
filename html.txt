@@ -1,0 +1,148 @@
+<html>
+
+<head>
+
+<title>NBA | Worlds Greatest</title>
+
+</head>
+
+
+
+
+<body>
+
+<header>
+
+
+<img src =  ”https://assets.2k.com/1a6ngf98576c/2e4Gd6x5HX12OrA9MPrY2h/e6270fc630a40775e2b47928af484206/2k20_standard_d.jpg” alt=”Player Of The Week” />
+
+
+<img src = ” https://i.kym-cdn.com/entries/icons/original/000/024/956/DQnb1XZX4AEnEiE.jpg ” width= 500 height = 400 />
+
+
+<h1>NBA Today</h1>
+
+<nav>
+
+<a href= "#shop">Shop</a>
+
+<a href= "#limited editions">Limited Editions</a>
+
+<h1>Highlights</h1>
+
+
+<video width="320" height="240" controls>
+
+<source src="https://www.youtube.com/watch?v=N11F5PeeJpI" type="video/mp4">
+
+Your browser does not support this video.
+
+</video>
+
+
+<h1>Schedule</h1>
+
+<h2>Highlights</h2>
+
+<h3>Teams</h3>
+
+<h4>Shop</h4>
+
+<h5>About Us</h5>
+
+<h6>Contact Us</h6>
+
+</nav>
+
+</header>
+
+<div id="firstSection">
+
+<h1>Who Are We?</h1>
+
+<p>We are the National Basketball Association or more known as the NBA. We are a basketball league made up of 30 teams and 450 top of the line players.</p>
+
+</div>
+
+<h1>Halloween Sale!</h1>
+
+
+<p>
+
+Save Up To 30% Storewide During Our Halloween Sale! 
+
+</p>
+
+
+
+
+<h1>Player Of The Day</h1>
+
+<p>
+
+Stephen Curry
+
+</p>
+
+
+<h1>Player Of The Month</h1>
+
+<p>
+
+LeBron James 
+
+</p>
+
+
+
+
+<h1>NBA Top Stories</h1>
+
+
+<ul>
+
+<li>5 "Spooky" Moments From Opening Week</li>
+
+<li>Lebron Scores All Time High Points During Lakers-Kings Faceoff</li>
+
+<li>Chef Curry Cooks Up The Court</li>
+
+<li>Halloween Sale Storewide</li>
+
+</ul>
+
+<footer>
+
+
+
+<h1>Contact Us</h1>
+<h2>Support</h2>
+
+<a href = ” https://NBA.com ” ><img src = ” https://th.bing.com/th/id/OIP.JaJjwgnmq0_shQQUek9_VAHaQd?pid=ImgDet&rs=1 ” /></a>
+
+<div id="links">
+
+
+</footer>
+
+
+<div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
